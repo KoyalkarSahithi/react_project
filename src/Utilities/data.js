@@ -1,0 +1,72 @@
+export const data = [
+{
+ id:1,
+ image: "https://5.imimg.com/data5/AK/RA/MY-68428614/apple.jpg",
+ title: "Apple",
+ description: "Apples are sweet are tasty fruits that give energy daily.",
+ price: 120,
+},
+{
+ id:2,
+ image: "https://pamsdailydish.com/wp-content/uploads/2015/04/Bunch-Bananas-1.jpg",
+ title: "Banana",
+ description: "Bananas are sweet are tasty fruits that give energy daily.",
+ price: 90,
+},
+{
+ id:3,
+ image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDZibBehmTA9pQayLFU2USSAPr8MBVIhBdQ&s",
+ title: "Orange",
+ description: "Juicy oranges sweet are tasty fruits that give energy daily.",
+ price: 150,
+},
+{
+ id:4,
+ image: "https://exoticflora.in/cdn/shop/products/1_5ac8a2cb-21a4-4a07-97dc-f3ad1ae36ea4_900x.jpg?v=1499122165",
+ title: "Mango",
+ description: "Mangoes sweet are tasty fruits that give energy daily.",
+ price: 220,
+},
+{
+ id:5,
+ image: "https://homedelivery.ramachandran.in/media/catalog/product/cache/04c5c5c4276fe9dba74400abc896c29c/4/9/491118A001005_Pineapple.jpg",
+ title: "Pineapple",
+ description: "Pineapples are sweet are tasty fruits that give energy daily.",
+ price: 89,
+},
+{
+ id:6,
+ image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSr2JTjrzvTfKnToi_CtDRGljZycjJqSSCaA&s",
+ title: "Grapes",
+ description: "Grapes are sweet are tasty fruits that give energy daily.",
+ price: 140,
+},
+{
+ id:7,
+ image: "https://weresmartworld.com/sites/default/files/styles/full_screen/public/2021-04/watermeloen_2.jpg?itok=CCYHLr5M",
+ title: "Water Melon",
+ description: "Water melons are sweet are tasty fruits that give energy daily.",
+ price: 30,
+},
+{
+ id:8,
+ image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfc_j-AdJhYQPXLocPvka0IBx_cgUclHDlA&s",
+ title: "Strawberry",
+ description: "Strawberries are sweet are tasty fruits that give energy daily.",
+ price: 200,
+},
+{
+ id:9,
+ image: "https://exoticfruitbox.com/wp-content/uploads/2015/10/papaya-3-Exotic.jpg",
+ title: "Papaya",
+ description: "Papayas are sweet are tasty fruits that give energy daily.",
+ price: 70,
+},
+{
+ id:10,
+ image: "https://orgfarm.store/cdn/shop/files/guava.webp?v=1721811540&width=1214",
+ title: "Guava",
+ description: "Guavas are sweet are tasty fruits that give energy daily.",
+ price: 90,
+}
+]

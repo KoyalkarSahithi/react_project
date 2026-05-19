@@ -1,0 +1,36 @@
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card{
+  height: 350px;
+  width: 270px;
+  border: 2px solid black;
+  border: 4px;
+  padding: 2px;
+}
+img{
+  height: 150px;
+  width: 180px;
+}
+
+footer{
+  color: white;
+  background-color: green;
+  justify-content: center;
+  height: auto;
+}
+
+.container-fluid{
+  color: aliceblue;
+  background-color: green;
+}
+
+
+
+/* .custom-navbar {
+  background-color: green; /* your color */
+/* }  
+
